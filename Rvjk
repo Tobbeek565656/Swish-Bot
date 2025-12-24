@@ -1,0 +1,6 @@
+# using GitHub CLI
+gh repo clone Ljungans/Swish-Bot
+
+# or with git
+git clone https://github.com/Ljungans/Swish-Bot.git
+cd Swish-Bot
